@@ -1,7 +1,19 @@
-body{
-    background-color:slategrey
+body {
+    background-color:gainsboro;
 }
 
-h1{
-    color:lavenderblush
+h1 {
+    color:dimgrey;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif; 
+
+
 }
+
+p {
+    color:dimgrey;
+    font-family: Arial, Helvetica, sans-serif; 
+    border:  solid;
+    border-color:gray;
+}
+
